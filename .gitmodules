@@ -1,0 +1,3 @@
+[submodule "BiomedicalPython"]
+	path = BiomedicalPython
+	url = https://github.com/Alvin2805/BiomedicalPython
